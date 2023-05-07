@@ -1,0 +1,142 @@
+/* NavBar elements */
+.logo{
+    height: 3em;
+}
+
+/* Content of the page elements */
+.najHosting{
+    margin-top: -1em;
+}
+
+#besplatno{
+    margin-top: -1.4em;
+}
+
+.r{
+    padding-bottom: 1em;
+    border: 1px solid black;
+    /* margin: 2px; */
+}
+
+.rBH{
+    padding-bottom: 1em;
+    border: 3px solid black;
+    /* margin: 2px; */
+}
+
+.rTitle{
+    background-color: #FFC09F;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    vertical-align: center;
+    height: 4em;
+}
+
+.rButton{
+    background-color: #009CD1;
+    border-radius: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 3em;
+    width: 50%;
+}
+
+.pButton{
+    background-color: #009CD1;
+    color: #EDF2EF;
+    border-radius: 40%;
+    height: 2em;
+}
+
+/* Provera domena */
+#proveraDomena{
+    background-color: #FFEEDB;
+    width: 50%;
+    margin: auto;
+}
+
+.domen{
+    text-align: left;
+    width: 25%;
+}
+.dOstatak{
+    text-align: right;
+    width: 75%;
+}
+
+/* Migracija */
+#prelazakT{
+    margin-bottom: 4em;
+}
+
+#migracija{
+    margin-top: -4em;
+}
+
+/* Web Hosting */
+#naslovWH{
+    width: fit-content;
+    color: #004A64;
+}
+
+/* Footer */
+.footerDiv{
+    font-size: 70%;
+    display: inline-block;
+    width: 100%;
+    margin-top: 3vw;
+    padding-top: 2.5vw;
+    padding-bottom: 1.5vw;
+}
+
+.footerDiv1{
+    font-size: 80%;
+    display: inline-block;
+    width: 100%;
+    padding-top: 2.5vw;
+    padding-bottom: 1.5vw;
+}
+
+.fButton{
+    background-color: #212738;
+    color: #EDF2EF;
+    border-radius: 40%;
+    height: 2em;
+}
+
+/* General */
+/* div{
+    border: 1px solid black;
+} */
+
+h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+h1,h2,h3,h4,p{
+    font-family: 'Roboto Slab', serif;
+}
+
+.robotoWhite{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+.robotoBlack{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* Color Pallete */
+
+.blueText{
+    color: #009CD1;
+}
+.myGray{
+    background-color: #D6D0CE;
+}
